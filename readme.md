@@ -4,3 +4,5 @@
 Para ejectura el sistema debes poner el:
 
 ```npm install```
+
+sistema de registro 2
